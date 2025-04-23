@@ -23,9 +23,9 @@ Bu süreçte teknik gelişimime önem vererek projelere katkılar sağlamak içi
 
 👋 Hello!
 
-I'm a Junior .NET Developer, currently continuing to specialise in software development processes.
-I primarily work on backend development using C# and .NET technologies, while also developing frontend interfaces with React.
-Throughout this journey, I focus on technical growth and aim to contribute meaningfully to the projects I work on.
+ I'm a Junior .NET Developer, currently continuing to specialise in software development processes.
+ I primarily work on backend development using C# and .NET technologies, while also developing frontend interfaces with React.
+ Throughout this journey, I focus on technical growth and aim to contribute meaningfully to the projects I work on.
 
 🧠 My areas of interest and technical strengths include:
 - C# and the .NET Ecosystem
