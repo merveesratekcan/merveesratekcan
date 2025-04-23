@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/merveesratekcan/merveesratekcan/main/banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Merve Esra Tekcan 👩‍💻</h1>
-<p align="center">.NET Developer | Full-stack </p>
+<p align="center"> Full-stack Developer </p>
 
 ---
 
