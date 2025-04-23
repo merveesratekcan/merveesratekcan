@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merveesratekcan/merveesratekcan/banner.png" alt="banner" width="100%" />
+  <img src="merveesratekcan/merveesratekcan/main/banner.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Merve Esra Tekcan 👩‍💻</h1>
