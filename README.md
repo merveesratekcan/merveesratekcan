@@ -67,5 +67,5 @@ Bu süreçte hem teknik hem de kişisel gelişimime önem vererek projelere somu
 
 ---
 
-> “Clean code always looks like it was written by someone who cares.” – Robert C. Martin
+
 
