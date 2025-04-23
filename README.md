@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/merveesratekcan/merveesratekcan/main/banner.png" style="max-width: 100%; height: auto;" />
+</p>
 
 <h1 align="center">Hi, I'm Merve Esra Tekcan 👩‍💻</h1>
 <p align="center">.NET Developer | Full-stack </p>
