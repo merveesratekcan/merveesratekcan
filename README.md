@@ -18,7 +18,7 @@ Bu süreçte hem teknik hem de kişisel gelişimime önem vererek projelere somu
 - C# ve .NET Ekosistemi  
 - Yazılım Mimarisi ve Clean Code Prensipleri  
 - Veritabanı Yönetimi ve Performans Optimizasyonu  
-- API Geliştirme, Docker, RabbitMQ
+- API Geliştirme
 - React
 - Sürekli Öğrenme ve Ekip Çalışması Kültürü
 
@@ -57,10 +57,10 @@ Bu süreçte hem teknik hem de kişisel gelişimime önem vererek projelere somu
   <a href="https://linkedin.com/in/merveesratekcan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@merveesratekcan" target="_blank">
+  <a href="https://medium.com/@esramerve.tekcan" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:esramerve@gmail.com">
+  <a href="mailto:esramerve.tekcan@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
