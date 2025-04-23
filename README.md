@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merveesratekcan/merveesratekcan/banner.png" alt="banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Merve Esra Tekcan 👩‍💻</h1>
-<p align="center">Junior .NET Developer | Full-stack </p>
+<p align="center">.NET Developer | Full-stack </p>
 
 ---
 
@@ -12,7 +10,7 @@
 Merhaba!  
 Ben bir Junior .NET Developer’ım ve yazılım geliştirme süreçlerinde uzmanlaşmaya devam ediyorum.  
 Ağırlıklı olarak **C#** ve **.NET teknolojileri** ile backend geliştirme yapıyor, **React** ile önyüz geliştirmeleri gerçekleştiriyorum.  
-Bu süreçte hem teknik hem de kişisel gelişimime önem vererek projelere somut katkılar sağlamak için çalışıyorum.
+Bu süreçte teknik gelişimime önem vererek projelere katkılar sağlamak için çalışıyorum.
 
 🧠 İlgi alanlarım ve geliştirdiğim yetkinlikler:
 - C# ve .NET Ekosistemi  
