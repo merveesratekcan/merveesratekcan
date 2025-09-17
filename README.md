@@ -54,15 +54,6 @@ Bu süreçte teknik gelişimime önem vererek projelere katkılar sağlamak içi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merveesratekcan&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merveesratekcan&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🌐 Reach Me
 
 <p align="left">
